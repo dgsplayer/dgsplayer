@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dgsplayer
-- 👀 I’m interested in React-Native, Java SpringBoot and PHP
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in React-Native, ReactJS, Java SpringBoot and PHP
 - 📫 How to reach me ??
+douglasmpcampos@gmail.com
 
 <!---
 dgsplayer/dgsplayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
